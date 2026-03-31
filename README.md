@@ -100,8 +100,3 @@ Define a identidade visual do projeto, com tons de azul e sombras para dar profu
 - Conversão de tipos com `Number()`
 - Estilização com CSS puro (sombras, bordas, fontes, layout centralizado)
 
----
-
-## ✍️ Autor
-
-**Henrique Bonito**
